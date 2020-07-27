@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/cgal/Actions">
+    <file>icons/convex_hull.png</file>
+    <file>icons/min_quadrilateral.png</file>
+  </qresource>
+  <qresource prefix="/cgal/help">
+    <file alias="about_CGAL.html">../resources/about_CGAL.html</file>
+    <file>about_CG_Project.html</file>
+  </qresource>
+</RCC>
